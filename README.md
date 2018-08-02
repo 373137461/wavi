@@ -1,4 +1,4 @@
-Wavi Core staging tree 0.12.2
+Wavi Core staging tree 0.12.2.4
 ===============================
 
 
